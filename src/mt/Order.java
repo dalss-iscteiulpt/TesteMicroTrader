@@ -11,7 +11,11 @@ import java.io.Serializable;
  */
 
 //Teste Commit 2
+<<<<<<< HEAD
 //Este é o master
+=======
+//Teste Branch TestingBranch
+>>>>>>> refs/heads/TestingBranch
 public class Order implements Serializable {
 	/**
 	 * Nickname of the client who issued the order.
