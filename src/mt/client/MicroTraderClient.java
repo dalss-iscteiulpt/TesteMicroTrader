@@ -11,6 +11,12 @@ import mt.comm.ClientComm;
  *
  */
 
+/** Teste - gmclo
+ * 
+ * @author GonLi
+ *
+ */
+
 public interface MicroTraderClient {
 
 	/**
